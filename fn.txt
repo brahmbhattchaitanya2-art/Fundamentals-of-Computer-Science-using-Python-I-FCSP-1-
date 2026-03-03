@@ -1,0 +1,32 @@
+***BILL***
+Item	Price	Quantity	SubTotal
+m	30	5	150
+Total=150***BILL***
+Item	Price	Quantity	SubTotal
+tea	5	2	10
+Total=10***BILL***
+Item	Price	Quantity	SubTotal
+m	30	2	60
+Total=60***BILL***
+Item	Price	Quantity	SubTotal
+m	20	2	40
+Total=40***BILL***
+Item	Price	Quantity	SubTotal
+m	50	2	100
+t	50	2	100
+Total=200***BILL***
+Item	Price	Quantity	SubTotal
+Milk	5	2	10
+Tea	10	2	20
+Total=30***BILL***
+Item	Price	Quantity	SubTotal
+milk	50	2	100
+tea	50	2	100
+Total=200***BILL***
+Item	Price	Quantity	SubTotal
+1	50	2	100
+Total=100***BILL***
+Item	Price	Quantity	SubTotal
+2	50	50	2500
+1	50	5000	250000
+Total=252500

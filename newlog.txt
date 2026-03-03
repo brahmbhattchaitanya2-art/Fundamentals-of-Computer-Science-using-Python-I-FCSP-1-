@@ -1,0 +1,6 @@
+Guido Rossum 14:22 14:37
+Bjarne Stroustrup 08:22 09:10
+Dennis Ritchie 11:23 13:05
+Niklaus Wirth 13:47 16:33
+Yukihiro Matsumoto 08:05 10:23
+James Gosling 12:14 13:47

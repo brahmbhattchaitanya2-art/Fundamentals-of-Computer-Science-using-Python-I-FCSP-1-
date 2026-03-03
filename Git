@@ -1,0 +1,16 @@
+1)git --version (checking the version available or NOT)
+2)git config --global user.name " "
+                               ^^
+                               git username
+3)git config  --global user.email"  "(email)
+4)git config --list --global
+5) (space show)  git init
+6) git status
+7)git add file.txt (which we want to upload)
+8)git commit ( after that make repostery...
+9)git remote add origin link (after that It ask password==True so successfull DONE )
+10)git push -u orgin main
+
+
+
+                                
